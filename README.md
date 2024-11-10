@@ -1,4 +1,4 @@
-## Hi there 👋
+## ✨ MinYoung's GitHub ✨
 
 <!--
 **minyoung0503/minyoung0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
