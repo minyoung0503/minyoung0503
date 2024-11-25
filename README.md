@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:F8B195,50:F67280,100:C06C84&height=200&section=header&text=MinYoung's%20GitHub&fontSize=50&fontColor=ffffff) !-->
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%E2%9C%A8+Minyoung's+GitHub+%E2%9C%A8)](https://git.io/typing-svg)
+<!--  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%E2%9C%A8+Minyoung's+GitHub+%E2%9C%A8)](https://git.io/typing-svg) !-->
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minyoung0503&layout=compact) !-->
