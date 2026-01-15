@@ -9,7 +9,6 @@
 
 ### Minyoung | FrontEnd Developer
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minyoung0503&hide=contribs,stars&show_icons=true)
 
 #### 🛠️ TECH STACK & TOOLS 🛠️
 
